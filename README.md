@@ -5,10 +5,10 @@ AI-powered mental health companion chatbot for students
 Problem Statement:
 Students face high levels of stress, anxiety, and loneliness but often hesitate to approach professional counselors. MindEase is a safe, AI-driven chatbot that:
 
-Detects user mood through sentiment analysis
-Generates empathetic, motivational responses
-Provides personalized relaxation tips
-Supports student mental well-being 24/7
+*Detects user mood through sentiment analysis
+*Generates empathetic, motivational responses
+*Provides personalized relaxation tips
+*Supports student mental well-being 24/7
 
 
 🚀 Features:
